@@ -1,6 +1,10 @@
 
 # Clone of shopperstop.com
-Shoppers-Stop Clone project where, you can create account ,view mens and beauty products, add the products to the cart, do a payment like the original shopping website. The design is based on shoppersstop.com where, We tried to implement different features from original website like product filters, slideshows, updating carts, sign in and sign up, etc. Moreover creating own cloud database using mongoDB Atlas.
+an e-commerce website where users can purchase clothing and all kinds of fashion products.
+
+Features :
+Sign-in/Sign-up validation with backend,Dynamic product page, payment gateway,Dynamic cart page with coupon functionality.
+Tech Stack: HTML | CSS | JavaScript | Node | Express | MongoDB
 
 
 
