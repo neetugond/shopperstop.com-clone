@@ -5,8 +5,6 @@ an e-commerce website where users can purchase clothing and all kinds of fashion
 Features :
 Sign-in/Sign-up validation with backend,Dynamic product page, payment gateway,Dynamic cart page with coupon functionality.
 
-Tech Stack: HTML | CSS | JavaScript | Node | Express | MongoDB
-
 
 
 ## Demo
