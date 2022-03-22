@@ -1,6 +1,6 @@
 
 # Clone of shopperstop.com
-an e-commerce website where users can purchase clothing and all kinds of fashion products.
+An e-commerce website where users can purchase clothing and all kinds of fashion products.
 
 Features :
 Sign-in/Sign-up validation with backend,Dynamic product page, payment gateway,Dynamic cart page with coupon functionality.
