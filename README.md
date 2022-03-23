@@ -14,14 +14,21 @@ Demo Link :- https://jovial-bose-95ed42.netlify.app/
  #### Created Api on herokuapp  
 #### Get all items of Mens
 
-```http
-  GET /https://shopperstopapinodejs.herokuapp.com/products/mens/shirts
-```
+# Screen Shots
 
-#### Get all items of Beauty
+<p>Home Page</p>
+<a href="https://ibb.co/BVBbNPX"><img src="https://i.ibb.co/tMDgXh7/shopperstop.png" alt="shopperstop" border="0"></a><br /><a target='_blank' href='https://dedupelist.com/'></a><br />
 
-```http
-  GET /https://shopperstopapinodejs.herokuapp.com/products/beauty/perfume
+<p>Product Page</p>
+<a href="https://ibb.co/26cdZGN"><img src="https://i.ibb.co/fSrHDjv/Screenshot-711.png" alt="Screenshot-711" border="0"></a>
+
+<p>Cart Page</p>
+<a href="https://ibb.co/LC4wdQh"><img src="https://i.ibb.co/9qRXHw3/Screenshot-712.png" alt="Screenshot-712" border="0"></a>
+
+<p>Payment Page</p>
+<a href="https://ibb.co/WPkXYg3"><img src="https://i.ibb.co/1drNw8n/Screenshot-713.png" alt="Screenshot-713" border="0"></a>
+
+
 ```
 
 
